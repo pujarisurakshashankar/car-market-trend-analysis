@@ -44,7 +44,7 @@ The original dataset contains 301 records. After removing 2 duplicate records, 2
 #Feature Engineering
 
 #Car Age
-Car Age = 2020 - Year
+Car Age = 2026 - Year
 
 # Depreciation
 Depreciation = Present Price - Selling Price
@@ -141,4 +141,5 @@ Conclusion
 Pujari Suraksha Shankar
 
 Data Analytics Project
+
 Car Market Trends Analysis
